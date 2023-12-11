@@ -1,0 +1,41 @@
+<HOME>Home
+<INTRODUCTION>fj Space bar
+<TRAINING>fj Space bar
+<TRAINING>fj
+<EXERCISE>fj Space bar
+<INTRODUCTION>dk
+<TRAINING>dk Space bar
+<TRAINING>dk
+<EXERCISE>dk Space bar
+<INTRODUCTION>sl
+<TRAINING>sl
+<EXERCISE>sl Space bar
+<EXERCISE>fjdksl Space bar
+<INTRODUCTION>a;
+<TRAINING>a;
+<EXERCISE>a; Space bar
+<EXERCISE>asdfjkl; Space bar
+<EXERCISE>hold j
+<EXERCISE>hold f
+<EXERCISE>asdfjkl; Space bar 2
+<INTRODUCTION>gh
+<TRAINING>gh
+<EXERCISE>gh Space bar
+<EXERCISE>asdfghl
+<EXERCISE>asdfghjkl;
+<INTRODUCTION>ru
+<TRAINING>ru
+<EXERCISE>ru - Exercise
+<INTRODUCTION>ei
+<TRAINING>ei
+<EXERCISE>ei - Exercise
+<EXERCISE>ei - Exercise 2
+
+<EXERCISE>Basic 1
+<EXERCISE>Basic 2
+<EXERCISE>Basic 3
+<EXERCISE>Basic 4
+<EXERCISE>Basic 5
+<EXERCISE>Basic 6
+<EXERCISE>Basic 7
+<EXERCISE>Basic 8
